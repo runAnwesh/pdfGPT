@@ -64,6 +64,3 @@ Then visit http://localhost:8000 in your browser.
 - `LaMini-T5-738M/` — Local model files (downloaded or placed here)
 - `requirements.txt` — Python dependencies
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
